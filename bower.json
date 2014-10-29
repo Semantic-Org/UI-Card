@@ -1,0 +1,13 @@
+{
+  "name": "UI-Card",
+  "description": "Card - Semantic UI",
+  "homepage": "http://beta.semantic-ui.com",
+  "author": {
+    "name": "Jack Lukic",
+    "web": "http://www.jacklukic.com"
+  },
+  "keywords": ["semantic", "ui", "css3", "framework"],
+  "license": ["http://semantic-ui.mit-license.org/"],
+  "ignore": ["docs", "node", "server", "spec", "src", "test"],
+  "main": ["card.css"]
+}

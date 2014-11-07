@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-card",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 415b7dc3fa03c574f2d5a20633e4b3ab834dc733
   "title": "Semantic UI - Card",
   "description": "Single component release of card",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> 415b7dc3fa03c574f2d5a20633e4b3ab834dc733
   "devDependencies": {}
 }

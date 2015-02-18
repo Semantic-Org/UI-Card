@@ -16,12 +16,15 @@ bower install semantic-ui-card
 npm install semantic-ui-card
 ```
 
+<<<<<<< HEAD
 #### To install with Meteor
 ```
 meteor add semantic:ui-card
 ```
 
 
+=======
+>>>>>>> 8721d37bd9753c787f78ac9dc4aca2978b938d61
 ## Addendum
 
 This element's definitions (required class names, html structures) are available in the [UI Docs](http://www.semantic-ui.com)

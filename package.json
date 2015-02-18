@@ -1,6 +1,14 @@
 {
   "name": "semantic-ui-card",
+<<<<<<< HEAD
   "version": "1.9.0",
+=======
+<<<<<<< HEAD
+  "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> b03906a513993c9afe27cf6cf24dcd1902f0f0a5
+>>>>>>> 8721d37bd9753c787f78ac9dc4aca2978b938d61
   "title": "Semantic UI - Card",
   "description": "Single component release of card",
   "homepage": "http://www.semantic-ui.com",

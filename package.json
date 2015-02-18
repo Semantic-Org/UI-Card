@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-card",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> b03906a513993c9afe27cf6cf24dcd1902f0f0a5
   "title": "Semantic UI - Card",
   "description": "Single component release of card",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Card.git"
+    "url": "https://github.com/Semantic-Org/UI-Card.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"

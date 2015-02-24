@@ -1,3 +1,8 @@
+### Version 1.10.0 - February 23, 2015
+
+- **Cards** - Fix `.ui.cards > .ui.card` margins to match `.ui.cards > .card` margins
+- **Cards** - Fix consecutive card groups to preserve row flow (similar to consecutive grids)
+
 ### UI Changes
 
 - **Card** - Cards now equalize height by default using `display: flex`. No longer are card heights required to be specified manually to align

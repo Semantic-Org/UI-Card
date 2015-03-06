@@ -1,3 +1,7 @@
+### Version 1.11.2 - March 6, 2015
+
+- **Card/Dimmer** - Fix dimmer z-index being too high when inside a `ui card`. Added variable for specifying default dimmer color inside card.
+
 ### Version 1.10.0 - February 23, 2015
 
 - **Cards** - Fix `.ui.cards > .ui.card` margins to match `.ui.cards > .card` margins

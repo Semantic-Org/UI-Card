@@ -1,3 +1,7 @@
+### Version 1.11.5 - March 23, 2015
+
+- **Card** - Fixes dimmer background shorthand property causes transparent dimmer in minified version
+
 ### Version 1.11.2 - March 6, 2015
 
 - **Card/Dimmer** - Fix dimmer z-index being too high when inside a `ui card`. Added variable for specifying default dimmer color inside card.

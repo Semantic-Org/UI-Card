@@ -1,3 +1,7 @@
+### Version 1.11.7 - April 13, 2015
+
+- **Card** - Fixes card `flex` display issues in IE
+
 ### Version 1.11.5 - March 23, 2015
 
 - **Card** - Fixes dimmer background shorthand property causes transparent dimmer in minified version

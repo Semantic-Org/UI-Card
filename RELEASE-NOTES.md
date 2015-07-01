@@ -1,3 +1,10 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Card** - Cards now support multiple custom `content` blocks. Content blocks and images can now appear in any order.
+- **Card** - Card now includes a `centered` variation
+- **Card** - IE11 now can correctly use  `flexbox` cards **THanks @Widcket**
+- **Card** - Card styles have been adjusted, `link card` now raise to show selection. Colored variations now have shadows.
+
 ### Version 1.11.7 - April 13, 2015
 
 - **Card** - Fixes card `flex` display issues in IE
@@ -18,7 +25,7 @@
 ### UI Changes
 
 - **Card** - Cards now equalize height by default using `display: flex`. No longer are card heights required to be specified manually to align
-- **Card** - Card now has colored variations **Tahnks @romuloctba**
+- **Card** - Card now has colored variations **Thanks @romuloctba**
 - **Label** - `ribbon label` can now be used inside `ui image` and `ui card` correctly
 - **Card** - Star / Like button colors have been fixed to match `ui rating` inside `card`
 - **Card** - Hiding a card with `display: none` no longer causes layout issues with `(x) cards`

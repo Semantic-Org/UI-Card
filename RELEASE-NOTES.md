@@ -1,3 +1,7 @@
+### Version 2.0.1 - June 30, 2015
+
+- **Card** - `centered cards` variation now works similar to `centered card`. [#2520](https://github.com/Semantic-Org/Semantic-UI/issues/2520)
+
 ### Version 2.0.0 - June 30, 2015
 
 - **Card** - Cards now support multiple custom `content` blocks. Content blocks and images can now appear in any order.

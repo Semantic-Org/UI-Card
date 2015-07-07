@@ -1,4 +1,4 @@
-### Version 2.0.1 - June 30, 2015
+### Version 2.0.1 - July 6, 2015
 
 - **Card** - `centered cards` variation now works similar to `centered card`. [#2520](https://github.com/Semantic-Org/Semantic-UI/issues/2520)
 

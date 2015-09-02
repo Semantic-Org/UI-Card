@@ -1,3 +1,8 @@
+#### Features
+
+- **Cards** - Added documentation for `stackable` cards which was available but undocumented in previous versions.
+- **Form Validation** - Added credit card validation, supports array of card types, and international cards including non luhn cards like China UnionPay [#2729](https://github.com/Semantic-Org/Semantic-UI/issues/2729)
+
 ### Version 2.0.1 - July 6, 2015
 
 - **Card** - `centered cards` variation now works similar to `centered card`. [#2520](https://github.com/Semantic-Org/Semantic-UI/issues/2520)

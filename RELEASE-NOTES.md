@@ -1,3 +1,7 @@
+### Version 2.2.0 - June 26, 2016
+
+- **Card** - Added `raised` card variation **Thanks @yordis** [#2955](https://github.com/Semantic-Org/Semantic-UI/issues/2955)
+
 #### Features
 
 - **Cards** - Added documentation for `stackable` cards which was available but undocumented in previous versions.
@@ -11,7 +15,7 @@
 
 - **Card** - Cards now support multiple custom `content` blocks. Content blocks and images can now appear in any order.
 - **Card** - Card now includes a `centered` variation
-- **Card** - IE11 now can correctly use  `flexbox` cards **THanks @Widcket**
+- **Card** - IE11 now can correctly use  `flexbox` cards **Thanks @Widcket**
 - **Card** - Card styles have been adjusted, `link card` now raise to show selection. Colored variations now have shadows.
 
 ### Version 1.11.7 - April 13, 2015

@@ -1,3 +1,7 @@
+### Version 2.2.10 - March 28, 2017
+
+-**Form** - Credit card validation now no longer fails validation with dashed credit card values #5122 **Thanks @neokio**
+
 ### Version 2.2.0 - June 26, 2016
 
 - **Card** - Added `raised` card variation **Thanks @yordis** [#2955](https://github.com/Semantic-Org/Semantic-UI/issues/2955)
